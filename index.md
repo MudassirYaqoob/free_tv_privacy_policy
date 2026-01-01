@@ -2,138 +2,115 @@ Privacy Policy for Free TV
 
 Last updated: January 01, 2026
 
-This Privacy Policy describes Our policies and procedures on the collection, use, and disclosure of Your information when You use the Free TV application (the “Service”), a television and mobile streaming application, and explains Your privacy rights and how the law protects You.
+This Privacy Policy describes how Free TV ("we", "us", or "our") collects, uses, and discloses information when you use the Free TV mobile application (the "Application" or "Service"). It also explains your privacy rights and how applicable laws protect you.
 
-By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
+Free TV is a free television streaming application that aggregates and plays publicly available IPTV streams. By using the Application, you agree to the collection and use of information in accordance with this Privacy Policy.
 
 Interpretation and Definitions
-Interpretation
 
-Words with capitalized initial letters have meanings defined below. These definitions apply regardless of whether they appear in singular or plural form.
+Interpretation
+Words with capitalized initial letters have meanings defined under the following conditions. These definitions apply whether the terms appear in singular or plural form.
 
 Definitions
 
-Application refers to Free TV, a television and mobile streaming application.
+Application refers to Free TV, the software program provided by the Company.
 
-Company (“We”, “Us”, or “Our”) refers to Free TV.
+Company (referred to as "the Company", "We", "Us", or "Our") refers to Free TV.
 
-Country refers to: Pakistan.
+Country refers to Pakistan.
 
-Device means any device that can access the Service, including Android TV devices, smartphones, tablets, or other compatible devices.
+Device means any device that can access the Service, such as a mobile phone, tablet, or other digital device.
 
-Personal Data is any information that relates to an identified or identifiable individual.
+Personal Data means any information that relates to an identified or identifiable individual.
 
 Service refers to the Application.
 
-Service Provider means third-party companies or individuals that process data on behalf of the Company.
+Service Provider means any third-party company or individual that processes data on behalf of the Company or assists in providing the Service.
 
 Usage Data refers to data collected automatically when using the Service.
 
-You means the individual using the Service.
+You means the individual accessing or using the Service.
 
-Collecting and Using Your Personal Data
-Types of Data Collected
+About the Application and Content Source
+
+Free TV is a free IPTV streaming application. All TV channels and stream URLs available in the Application are sourced from publicly available, open-source repositories, primarily the IPTV-org open-source playlist hosted on GitHub.
+
+The Company does not host, own, store, control, or retransmit any television channels or media content. The Application only indexes and plays stream URLs that are already publicly accessible on the internet.
+
+All streams are delivered directly from their respective third-party hosts. If a stream becomes unavailable, stops working, or is removed by its host, this is outside the control of the Company.
+
+If any channel owner, copyright holder, or authority raises a concern regarding content availability, the Company is willing to remove the relevant stream from the Application.
+
+Legal and Copyright Disclaimer
+
+Free TV does not claim ownership of any media content displayed in the Application. All trademarks, logos, channel names, and media belong to their respective owners.
+
+The Company does not guarantee the legality, quality, accuracy, or availability of any stream. Responsibility for stream legality lies with the original stream providers and hosting entities.
+
+If you believe that any content available through the Application infringes copyright or applicable laws, you may contact the Company, and appropriate action will be taken.
+
+Collecting and Using Your Data
+
 Personal Data
 
-We do not require users to create accounts or directly provide personal information such as names or addresses.
+The Company does not collect personally identifiable information such as names, phone numbers, email addresses, precise location data, or payment information.
+
+Location Information (Country Only)
+
+The Application may determine the User’s country based on the User’s IP address using publicly available third-party APIs. This information is used solely to personalize the content experience, such as showing relevant country-specific TV channels.
+
+The country information is not stored, not linked to any user account, and not used for tracking, profiling, or identification purposes.
 
 Usage Data
 
-Usage Data is collected automatically and may include:
+Usage Data may be collected automatically when using the Service. This may include information such as device type, operating system version, basic app usage events, and diagnostic data such as crash reports.
 
-Device IP address
+This data is primarily collected by third-party services used in the Application and is used to improve app performance and stability.
 
-Device type and identifiers
+Advertising
 
-Operating system and version
+Free TV displays advertisements using Google AdMob.
 
-App usage statistics
+Google AdMob may collect information such as device identifiers, IP address, and usage data to provide and measure advertisements. The Company does not control how Google collects or processes this data.
 
-Diagnostic and performance data
+Advertising-related data is handled in accordance with Google’s Privacy Policy. Users are encouraged to review Google’s privacy practices for more information.
 
-When accessing the Service on a TV or mobile device, additional technical information may be collected automatically.
+Internet Access and Streaming Permissions
 
-Advertising and Third-Party Services
-Advertisements (Google AdMob)
+The Application requires internet access to load IPTV playlists, stream publicly available television channels, and display advertisements.
 
-Free TV displays advertisements provided by Google AdMob, a third-party advertising service.
+Some streams use HTTP (cleartext) URLs. To support these publicly available streams, the Application allows cleartext traffic only for specific, known streaming domains.
 
-AdMob may collect and use information such as:
+This configuration is limited strictly to streaming functionality and is not used for collecting or transmitting personal user data.
 
-Advertising ID
+Third-Party Services
 
-Device identifiers
+The Application relies on third-party services such as advertising providers and third-party IPTV stream hosts.
 
-IP address
-
-Interaction with ads
-
-This data is used to show relevant and non-intrusive ads and to measure ad performance.
-
-You can learn how Google uses data collected from apps that use its services here:
-https://policies.google.com/privacy
-
-Users may opt out of personalized advertising through their device’s advertising settings.
-
-Use of Your Personal Data
-
-The Company may use data to:
-
-Provide and maintain the Service
-
-Monitor and improve app performance
-
-Display advertisements
-
-Detect and prevent technical issues
-
-Analyze usage trends
-
-Sharing of Your Information
-
-We may share information:
-
-With Service Providers (such as ad networks)
-
-To comply with legal obligations
-
-In connection with business transfers
-
-With Your consent
-
-We do not sell user data.
-
-Retention of Your Data
-
-Usage Data is retained only for as long as necessary for analytics, security, and service improvement, unless a longer retention period is required by law.
-
-Transfer of Your Personal Data
-
-Your information may be processed on servers located outside Your country. By using the Service, You consent to such transfers, provided appropriate data protection measures are in place.
+The Company is not responsible for the content, availability, privacy policies, or practices of any third-party services or websites accessed through the Application.
 
 Children’s Privacy
 
-The Service is not directed at children under the age of 13.
+The Service is not directed to children under the age of 13. The Company does not knowingly collect personal data from children under 13 years of age. If such data is discovered, it will be removed promptly.
 
-We do not knowingly collect personal data from children under 13. If such data is discovered, it will be deleted promptly.
+Data Retention
 
-Parents or guardians who believe their child has provided personal data may contact Us.
+The Company does not store personal user data on its own servers.
 
-Links to Other Websites
+Any data collected by third-party services is retained according to their respective privacy policies.
 
-The Service may contain links to third-party websites or content. We are not responsible for the privacy practices of those third-party services.
+Security
 
-Security of Your Personal Data
-
-We take reasonable measures to protect Your data, but no method of transmission or storage is completely secure.
+The security of user data is important to the Company. Reasonable measures are taken to protect the Application and its users. However, no method of transmission over the internet or electronic storage is completely secure, and absolute security cannot be guaranteed.
 
 Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated “Last updated” date.
+The Company may update this Privacy Policy from time to time. Any changes will be posted on this page, and the "Last updated" date will be revised accordingly.
+
+Continued use of the Application after changes are posted constitutes acceptance of the updated Privacy Policy.
 
 Contact Us
 
-If you have any questions about this Privacy Policy, You can contact us:
+If you have any questions, concerns, or copyright-related requests regarding this Privacy Policy or the Application, you may contact us at:
 
-By email:
-📧 mdmudassiryaqoob@gmail.com
+Email: mdmudassiryaqoob@gmail.com
